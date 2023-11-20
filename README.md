@@ -14,9 +14,9 @@ Estou me empenhando no Full-Stack...
 
 ### Contact with me
 <br>
-<a href="https://instagram.com/matugp_25" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/></a>
+<a href="https://instagram.com/matugp_25" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/></a>
 <br>
-<a href="https://www.linkedin.com/in/matusalem-gabriel-7b831a268/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+<a href="https://www.linkedin.com/in/matusalem-gabriel-7b831a268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
 <br>
 <br>
 
